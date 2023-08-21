@@ -1,0 +1,17 @@
+p{
+    font-size: 45px;
+    color: crimson;
+}
+input{
+    border-radius: 30px;
+    height: 40px;
+    width: 300px;
+    font-size: 30PX;
+    padding: 10px;
+    box-shadow: 10px 10px;
+    outline:none;
+}
+input:focus{
+    background-color: yellow;
+    border-bottom: 5px solid orange;
+}

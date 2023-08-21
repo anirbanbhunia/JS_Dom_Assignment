@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    border: 1px solid black;
+    height: 280px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    /* box-shadow: 5px 10px 10px 10px; */
+    background-color:sienna;
+    /* background-image: url(./rad.jpeg);
+    background-size: cover; */
+}
+h1{
+    font-size: 50px;
+    /* text-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+    color:teal; */
+}
